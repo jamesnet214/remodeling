@@ -16,13 +16,17 @@ Diam elitr quis ipsum dolore sea elitr erat dolore sea et invidunt. At gubergren
 ## 8. 테라스 입구 창 제품 및 사이즈 변경
 Diam elitr quis ipsum dolore sea elitr erat dolore sea et invidunt. At gubergren suscipit nonumy diam vulputate lorem diam nonummy clita vero feugiat kasd volutpat et dolore stet no et. Duo sit sanctus sit duo nonumy labore diam stet labore voluptua justo est soluta consetetur at accusam illum autem. Consequat enim amet.
 
-### Concept
+### 아이디어
 
 ![image](https://user-images.githubusercontent.com/52397976/212521915-db398958-5ae2-4f2d-be0f-ba56a4b32d4b.png)
 
 ![image](https://user-images.githubusercontent.com/52397976/212521917-29baa46a-1d51-486f-a75c-f74ba3d9f4ba.png)
 
-### Before.
+### 문틀 아이디어
+
+![image](https://user-images.githubusercontent.com/52397976/212522374-af04e7cd-50ec-4a02-bb09-6b583848389e.png)
+
+### 현재
 
 ![image](https://user-images.githubusercontent.com/52397976/212521987-2a76df1a-d5a6-4a42-85ff-ec3b49411ae6.png)
 
