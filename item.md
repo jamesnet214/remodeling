@@ -5,7 +5,7 @@
 - 수건 걸이 1 
 - 수건 걸이 2 
 
-미설치 항목들은 달아주지 마시고 저희가 나중에 따로 제품을 구매해서 천천히 설치하겠습니다.
+위 제품들은 저희가 나중에 따로 제품을 구매해서 천천히 설치하겠습니다.
 
 ## 사각 노프레임 거울
 - [제품 바로가기](https://smartstore.naver.com/monceramic/products/4946083968?n_media=11068&n_query=%EC%9A%95%EC%8B%A4%EC%9B%90%ED%98%95%EA%B1%B0%EC%9A%B8&n_rank=1&n_ad_group=grp-a001-02-000000029170919&n_ad=nad-a001-02-000000201481315&n_campaign_type=2&n_mall_id=thdhsgnl1&n_mall_pid=4946083968&n_ad_group_type=2&NaPm=ct%3Dle2z3l54%7Cci%3D0yW0003bjYDxIrEWnLlN%7Ctr%3Dpla%7Chk%3D7e46ec0997c638f2d4c7baed6f25113ad30258f6)
