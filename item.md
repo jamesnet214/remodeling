@@ -55,6 +55,10 @@
 
 <img width="278" alt="image" src="https://user-images.githubusercontent.com/52397976/218497272-a397e87a-c051-407d-b555-e84cffd539bd.png">
 
+#### 아이디어 스케치
+
+![image](https://user-images.githubusercontent.com/52397976/218582128-84423a92-a9f2-40b8-b72f-0748ddaebfc9.png)
+
 ## 주방 가전
 - 식기세척기 LG **DFBJ4EH**
 - 인덕션 LG **BEI3WWQT**
