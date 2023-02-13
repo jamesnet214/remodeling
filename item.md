@@ -22,6 +22,9 @@
 - 43,000
 
 #### 시공방식 (언더)
+설치 시공은 언더 컷 방식으로 부탁드립니다.
+
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/52397976/218574707-3bca22dc-0318-41c7-aa5a-8e8922d3dae8.png">
 
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/52397976/218489050-d198376d-9b0a-4c42-b400-4407856eed67.png">
 
