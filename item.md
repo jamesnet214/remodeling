@@ -36,6 +36,17 @@
 - [제품 바로가기](https://smartstore.naver.com/monceramic/products/6044046849?NaPm=ct%3Dle2tw700%7Cci%3D19e046a8640a25f4cd2207e6ec6caa7cd30e8124%7Ctr%3Dslct%7Csn%3D468496%7Chk%3D2fe7e21d9191809e44632124d113b749800d78fc)
 - 120,000
 
+## 매립 샤워기 (가능한경우)
+- 2018NB 무광 니켈 벽매립 샤워기
+- [제품 바로가기](https://jaru.kr/product/detail.html?product_no=3823&cate_no=91&display_group=1&cafe_mkt=naver_ks&mkt_in=Y&ghost_mall_id=naver&ref=naver_open&NaPm=ct%3Dle2ygb6g%7Cci%3Df455fe74c936ac27df163309823419663b772c41%7Ctr%3Dslsl%7Csn%3D1521636%7Chk%3D1fe5b9ba874bfde3da98a482471bf8f5f0881c3e)
+
+## 욕실 디자인
+
+- 샤워부스 기억자 가벽과 상단 유리 파티션
+<img width="277" alt="image" src="https://user-images.githubusercontent.com/52397976/218496990-c01d76e7-85e8-450e-bbe1-995a8383fda8.png">
+
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/52397976/218497272-a397e87a-c051-407d-b555-e84cffd539bd.png">
+
 ## 주방 가전
 - 식기세척기 LG DFBJ4EH 
 - 인덕션 LG BEI3WWQT
