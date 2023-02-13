@@ -5,7 +5,7 @@
 - 수건걸이1 
 - 수건걸이2 
 
-미설치 항목들은 달아주지 마시고 나중에 저희가 따로 설치하겠습니다.
+미설치 항목들은 달아주지 마시고 저희가 나중에 따로 마음에 드는 제품으로 구매해서 천천히 설치하겠습니다.
 
 ## 사각 싱크볼
 - 아티잔 CAT 830-B 사각싱크볼
@@ -28,6 +28,8 @@
 - 아메리칸 스덴다드 세면대 
 - [제품 바로가기](https://smartstore.naver.com/b2mall/products/5734077690?n_media=27758&n_query=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EC%84%B8%EB%A9%B4%EB%8C%80&n_rank=1&n_ad_group=grp-a001-02-000000018004216&n_ad=nad-a001-02-000000145200775&n_campaign_type=2&n_mall_id=b2mall&n_mall_pid=5734077690&n_ad_group_type=2&NaPm=ct%3Dle2xo3qw%7Cci%3D0zO0001FhIDx3OJPdfjE%7Ctr%3Dpla%7Chk%3D8c22ad9eb8d27bcd7e096b6c223109fea8f1aa8d)
 - 205,000
+
+<img width="495" alt="image" src="https://user-images.githubusercontent.com/52397976/218493763-890566b1-669b-4bc7-9a05-492fbc6b301b.png">
 
 ## 샤워기
 - 무광 사틴 스테인레스 해바라기 샤워기
