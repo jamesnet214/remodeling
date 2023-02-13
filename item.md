@@ -2,7 +2,8 @@
 - 아티잔 CAT 830-B 사각싱크볼
 - 대배수구 옵션추가 
 - [제품 바로가기](https://smartstore.naver.com/tnd191218/products/4956617962?NaPm=ct%3Dle2se50g%7Cci%3D81b44fecc483e7c7935d9fc8710b4c3dac2fca17%7Ctr%3Dslsl%7Csn%3D1116393%7Chk%3D953b3ff8138e00a834557491911dba29923a55eb)
-- 29000
+- 290,400
+- 43,000
 
 시공방식 (언더)
 
