@@ -1,11 +1,17 @@
-## 욕실 부자재
-- 거울 수납장 OK
 ## 미설치 항목
+- 수납형 거울
 - 휴지걸이 
 - 수건걸이1 
 - 수건걸이2 
 
-미설치 항목들은 달아주지 마시고 저희가 나중에 따로 마음에 드는 제품으로 구매해서 천천히 설치하겠습니다.
+미설치 항목들은 달아주지 마시고 저희가 나중에 따로 제품을 구매해서 천천히 설치하겠습니다.
+
+## 사각 노프레임 거울
+- [제품 바로가기](https://smartstore.naver.com/monceramic/products/4946083968?n_media=11068&n_query=%EC%9A%95%EC%8B%A4%EC%9B%90%ED%98%95%EA%B1%B0%EC%9A%B8&n_rank=1&n_ad_group=grp-a001-02-000000029170919&n_ad=nad-a001-02-000000201481315&n_campaign_type=2&n_mall_id=thdhsgnl1&n_mall_pid=4946083968&n_ad_group_type=2&NaPm=ct%3Dle2z3l54%7Cci%3D0yW0003bjYDxIrEWnLlN%7Ctr%3Dpla%7Chk%3D7e46ec0997c638f2d4c7baed6f25113ad30258f6)
+- 38,000
+
+<img width="684" alt="image" src="https://user-images.githubusercontent.com/52397976/218502070-319ba9a5-2912-45c1-b044-cc7bd2794bb9.png">
+
 
 ## 사각 싱크볼
 - 아티잔 CAT 830-B 사각싱크볼
@@ -14,7 +20,7 @@
 - 290,400
 - 43,000
 
-시공방식 (언더)
+#### 시공방식 (언더)
 
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/52397976/218489050-d198376d-9b0a-4c42-b400-4407856eed67.png">
 
@@ -31,12 +37,7 @@
 
 <img width="495" alt="image" src="https://user-images.githubusercontent.com/52397976/218493763-890566b1-669b-4bc7-9a05-492fbc6b301b.png">
 
-## 샤워기
-- 무광 사틴 스테인레스 해바라기 샤워기
-- [제품 바로가기](https://smartstore.naver.com/monceramic/products/6044046849?NaPm=ct%3Dle2tw700%7Cci%3D19e046a8640a25f4cd2207e6ec6caa7cd30e8124%7Ctr%3Dslct%7Csn%3D468496%7Chk%3D2fe7e21d9191809e44632124d113b749800d78fc)
-- 120,000
-
-## 매립 샤워기 (가능한 경우)
+## 매립 샤워기
 - 2018NB 무광 니켈 벽매립 샤워기
 - [제품 바로가기](https://smartstore.naver.com/modamdeco/products/6551942847?NaPm=ct%3Dle2yt988%7Cci%3D0ef676ea49596d9d81f34e4785c0266e3e48d6bf%7Ctr%3Dsls%7Csn%3D3855168%7Chk%3D2076e13e42ef00b3a7e2f8472a58654e57e8fc9c)
 - 257,000
