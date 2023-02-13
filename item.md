@@ -15,7 +15,8 @@
 
 ## 욕실 세면대
 - 아메리칸 스덴다드 세면대 
-- [제품 바로가기](https://smartstore.naver.com/smartstore_honambath_com/products/4816427636?NaPm=ct%3Dle2tare8%7Cci%3Ded648116feb5f182e2a2ed45783cc581c7bae242%7Ctr%3Dslct%7Csn%3D654791%7Chk%3D061523c06c99009376a3e6f582ac7e44f0bc640e)
+- [제품 바로가기](https://smartstore.naver.com/b2mall/products/5734077690?n_media=27758&n_query=%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%EC%8A%A4%ED%83%A0%EB%8B%A4%EB%93%9C%EC%84%B8%EB%A9%B4%EB%8C%80&n_rank=1&n_ad_group=grp-a001-02-000000018004216&n_ad=nad-a001-02-000000145200775&n_campaign_type=2&n_mall_id=b2mall&n_mall_pid=5734077690&n_ad_group_type=2&NaPm=ct%3Dle2xo3qw%7Cci%3D0zO0001FhIDx3OJPdfjE%7Ctr%3Dpla%7Chk%3D8c22ad9eb8d27bcd7e096b6c223109fea8f1aa8d)
+- 205,000
 
 ## 샤워기
 - 무광 사틴 스테인레스 해바라기 샤워기
