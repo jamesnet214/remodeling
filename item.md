@@ -1,5 +1,11 @@
-## 욕실 거울 수납장
-- OK
+## 욕실 부자재
+- 거울 수납장 OK
+## 미설치 항목
+- 휴지걸이 
+- 수건걸이1 
+- 수건걸이2 
+
+미설치 항목들은 달아주지 마시고 나중에 저희가 따로 설치하겠습니다.
 
 ## 사각 싱크볼
 - 아티잔 CAT 830-B 사각싱크볼
@@ -13,9 +19,9 @@
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/52397976/218489050-d198376d-9b0a-4c42-b400-4407856eed67.png">
 
 ## 주방 수전
-- 베르사체 블랙 무광 수전 
+- 베르사츠 블랙 무광 수전 
 - [제품 바로가기](https://smartstore.naver.com/seojunbuiltinmall/products/5832039694?NaPm=ct%3Dle2t2twg%7Cci%3D5f2547cc0a32bd562d54a2ed09607bae034e6228%7Ctr%3Dimg%7Csn%3D894337%7Chk%3Dd22bc69d3e3aecb43b2ab3fe9faa0c0f44518fdb)
-- 120,000
+- 150,000
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/52397976/218490153-0e4f1cc5-7c14-4fdf-9e45-a7fcd0b49c8b.png">
 
 ## 욕실 세면대
@@ -26,6 +32,7 @@
 ## 샤워기
 - 무광 사틴 스테인레스 해바라기 샤워기
 - [제품 바로가기](https://smartstore.naver.com/monceramic/products/6044046849?NaPm=ct%3Dle2tw700%7Cci%3D19e046a8640a25f4cd2207e6ec6caa7cd30e8124%7Ctr%3Dslct%7Csn%3D468496%7Chk%3D2fe7e21d9191809e44632124d113b749800d78fc)
+- 120,000
 
 ## 주방 가전
 - 식기세척기 LG DFBJ4EH 
