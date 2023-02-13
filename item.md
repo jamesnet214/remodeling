@@ -52,6 +52,6 @@
 <img width="278" alt="image" src="https://user-images.githubusercontent.com/52397976/218497272-a397e87a-c051-407d-b555-e84cffd539bd.png">
 
 ## 주방 가전
-- 식기세척기 LG DFBJ4EH 
-- 인덕션 LG BEI3WWQT
-- 냉장고 LG M623MBG042S
+- 식기세척기 LG **DFBJ4EH**
+- 인덕션 LG **BEI3WWQT**
+- 냉장고 LG **M623MBG042S**
