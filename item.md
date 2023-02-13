@@ -14,6 +14,8 @@
 ## 샤워기
 - 무광 사틴 스테인레스 해바라기 샤워기
 - [제품 바로가기](https://smartstore.naver.com/monceramic/products/6044046849?NaPm=ct%3Dle2tw700%7Cci%3D19e046a8640a25f4cd2207e6ec6caa7cd30e8124%7Ctr%3Dslct%7Csn%3D468496%7Chk%3D2fe7e21d9191809e44632124d113b749800d78fc)
+
+## 주방 가전
 - 식기세척기 LG DFBJ4EH 
 - 인덕션 LG BEI3WWQT
 - 냉장고 LG M623MBG042S
